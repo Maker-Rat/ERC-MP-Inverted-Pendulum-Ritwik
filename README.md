@@ -7,4 +7,4 @@ Studied basics of control systems and implemented a PID controller for control o
 
 The hardware implemention ultimately wasn't successful owing to lack of proper equipment for measuring angle of the pendulum and lack of a suitable motor for the project.
 
-![Hardware Setup Demo](https://github.com/user-attachments/assets/5a8a7cfb-a1f5-4624-9ae0-5c6bd640aa87)
+![Hardware Setup Demo](https://github.com/user-attachments/assets/fa081b8a-6e9c-4520-853a-61588409a2b1)
